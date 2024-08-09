@@ -27,4 +27,4 @@
 
 **Portfolio**
 
-![Построение дашбордов в Tableau](https://github.com/alekseykok/Tableau)
+[Построение дашбордов в Tableau](https://github.com/alekseykok/Tableau)
