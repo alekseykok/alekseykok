@@ -26,4 +26,4 @@
 <hr>
 
 **Portfolio**
-![alt text]()
+![Построение дашбордов в Tableau]()
