@@ -28,6 +28,7 @@
 **Portfolio**
 
 [Построение дашбордов в Tableau](https://github.com/alekseykok/Tableau)
+
 [Телеком — Поиск клиента с неоптимальными тарифами](https://github.com/alekseykok/Telecom)
 
 
