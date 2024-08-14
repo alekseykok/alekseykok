@@ -33,6 +33,8 @@
 
 [Исследование продаж игр](https://github.com/alekseykok/game_sales_research)
 
+[Исследование мобильного приложения](https://github.com/alekseykok/mobile_application_research)
+
 
 
 
