@@ -32,7 +32,7 @@
 |[Исследование TED-конференций в Tableau](https://github.com/alekseykok/Tableau)|Создание презентации с интерактивными дашбордами в Tableau|Tableau|
 |[Телеком — Поиск клиента с неоптимальными тарифами](https://github.com/alekseykok/Telecom)|Поиск клиентов с неоптимальными тарифами. Проверка гипотез.|pandas, matplotlib, seaborn, numpy, scipy|
 |[Исследование продаж игр](https://github.com/alekseykok/game_sales_research)|Исследование продаж игр по жанрам и платформам. Проверка гипотез.|pandas, matplotlib, seaborn, scipy|
-|[Исследование мобильного приложения](https://github.com/alekseykok/mobile_application_research)|Исследование поведения пользователей мобильного приложения по продаже продуктов питания.Проведение A/A/B-теста.|pandas, datetime, matplotlib.pyplot, plotly.express, plotly, math, scipy, numpy|
+|[Исследование мобильного приложения](https://github.com/alekseykok/mobile_application_research)|Исследование поведения пользователей мобильного приложения по продаже продуктов питания. Проведение A/A/B-теста.|pandas, datetime, matplotlib.pyplot, plotly.express, plotly, math, scipy, numpy|
 
 
 
