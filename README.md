@@ -31,4 +31,10 @@
 
 [Телеком — Поиск клиента с неоптимальными тарифами](https://github.com/alekseykok/Telecom)
 
+[Исследование продаж игр](https://github.com/alekseykok/game_sales_research)
+
+
+
+
+
 
