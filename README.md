@@ -29,7 +29,7 @@
 
 |Название проекта|Описание проекта|Используемые библиотеки|
 |:-|:-|:-|
-|[Построение дашбордов в Tableau](https://github.com/alekseykok/Tableau)|||
+|[Исследование TED-конференций в Tableau](https://github.com/alekseykok/Tableau)|||
 |[Телеком — Поиск клиента с неоптимальными тарифами](https://github.com/alekseykok/Telecom)|||
 |[Исследование продаж игр](https://github.com/alekseykok/game_sales_research)|||
 |[Исследование мобильного приложения](https://github.com/alekseykok/mobile_application_research)|||
